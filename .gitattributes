@@ -1,0 +1,2 @@
+asr-models/kaldi-generic-en-tdnn_f-r20190609.tar.xz filter=lfs diff=lfs merge=lfs -text
+g2p/sequitur-dict-en.ipa-r20190113.gz filter=lfs diff=lfs merge=lfs -text
